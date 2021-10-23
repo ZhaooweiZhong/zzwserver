@@ -1,0 +1,5 @@
+2021/10/15 12:33:15 http: TLS handshake error from 10.10.28.222:5112: remote error: tls: unknown certificate
+2021/10/15 12:54:00 http: TLS handshake error from 10.10.28.222:1973: remote error: tls: unknown certificate
+2021/10/16 12:41:53 http: TLS handshake error from 10.10.27.146:61818: remote error: tls: unknown certificate
+2021/10/16 12:41:56 http: TLS handshake error from 10.10.27.146:63096: remote error: tls: unknown certificate
+2021/10/16 12:57:42 http: TLS handshake error from 10.10.27.146:64711: remote error: tls: bad certificate
